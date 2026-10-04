@@ -1,17 +1,14 @@
-# 🎂 Marisa Birthday Game
+# Jump and run
 
-Ein interaktives Geburtstagsspiel für Marisa!
-
+Ein interaktives Spiel für Rafa aka Eli
 ## Features
 - Interaktives Klick-Spiel
-- Geburtstagslied
 - Soundeffekte
 - Überraschungen beim Erreichen bestimmter Punktzahlen
 
 ## Spielen
-Öffne einfach die `marisa_birthday.html` Datei in deinem Browser und klicke auf Marisa!
+Öffne einfach die `eli_run.html` Datei in deinem Browser und klicke auf Start!
 
 ## Live-Demo
-[Hier spielen](https://qtraveler5.github.io/Marisa-Birthday-Game/) _(nach Aktivierung von GitHub Pages)_
-
-Alles Gute zum Geburtstag, Marisa! 🎉
+[Hier spielen](https://qtraveler5.github.io/ELI-RUN/) _(nach Aktivierung von GitHub Pages)_
+Danke ELI! 🎉
